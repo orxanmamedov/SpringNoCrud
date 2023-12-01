@@ -36,7 +36,7 @@
 			<div class="container text-left">
 
 				<a href="<%=request.getContextPath()%>/new" class="btn btn-success">Add
-					New User</a>
+					NewTESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST User</a>
 			</div>
 			<br>
 			<table class="table table-bordered">
